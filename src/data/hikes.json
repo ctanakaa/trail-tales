@@ -1,0 +1,10 @@
+[
+    {"name": "Discovery Park", "img": "img/forest.jpg", "difficulty": "Easy", "length": "4.5", "description": "Difficulty: Easy | Length: 4.5mi"},
+    {"name": "Loop Trail", "img": "img/mountain.jpg", "difficulty": "Easy", "length": "2.8", "description": "Difficulty: Easy | Length: 2.8mi"},
+    {"name": "Cable Line Trail to West Tiger", "img": "img/river.jpg", "difficulty": "Hard", "length": "3", "description": "Difficulty: Hard | Length: 3.0mi"},
+    {"name": "Greenlake Trail", "img": "img/forest.jpg", "difficulty": "Easy", "length": "2.9", "description": "Difficulty: Easy | Length: 2.9mi"},
+    {"name": "WA Park Arboretum Loop", "img": "img/mountain.jpg", "difficulty": "Easy", "length": "2.3", "description": "Difficulty: Easy | Length: 2.3mi"},
+    {"name": "Foster Island Trail", "img": "img/river.jpg", "difficulty": "Easy", "length": "3.3", "description": "Difficulty: Easy | Length: 3.3mi"},
+    {"name": "Alki Trail", "img": "img/forest.jpg", "difficulty": "Easy", "length": "7.6", "description": "Difficulty: Easy | Length: 7.6mi"},
+    {"name": "Piper's Creek and South Ridge Trail", "img": "img/mountain.jpg", "difficulty": "Moderate", "length": "1.9", "description": "Difficulty: Moderate | Length: 1.9mi"}
+  ]
