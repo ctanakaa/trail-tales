@@ -24,3 +24,5 @@ export function WordSearch(props) {
     )
     
 }
+
+export default WordSearch;

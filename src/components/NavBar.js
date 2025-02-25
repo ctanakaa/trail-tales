@@ -75,3 +75,5 @@ export function NavBar(props) {
         </nav>
     );
 }
+
+export default NavBar;

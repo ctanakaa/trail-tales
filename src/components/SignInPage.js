@@ -29,3 +29,4 @@ export function SignInScreen(){
       </div>
   );
 }
+export default SignInScreen;
